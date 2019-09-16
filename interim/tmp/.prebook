@@ -72,11 +72,7 @@
     "innerHtml": "Conclusions thus drawn, when established, rest upon a very firm basis.  They depend upon the number and appositeness of the facts, and it would be very interesting to pursue this branch of evidence in detail.  In following up this idea, the names to be sought for might thus be classed:—"
   },
   {
-    "tag": "hr",
-    "innerHtml": ""
-  },
-  {
-    "tag": "h6",
+    "tag": "h5",
     "innerHtml": "I."
   },
   {
@@ -88,24 +84,16 @@
     "innerHtml": "Cadair Idris and Cadair Arthur both involve more than a mere name.  Idris and Arthur must have been invested with heroic qualifications to have been placed in such “seats.”"
   },
   {
-    "tag": "hr",
-    "innerHtml": ""
-  },
-  {
-    "tag": "h6",
-    "innerHtml": "Ii."
+    "tag": "h5",
+    "innerHtml": "II."
   },
   {
     "tag": "p",
     "innerHtml": "Names of lesser features, as “Bryn y Saeth,” Hill of the Dart; “Llyn Llyngclys,” Lake of the Engulphed Court; “Ceven y Bedd,” the Ridge of the Grave; “Rhyd y Saeson,” the Saxons’ Ford."
   },
   {
-    "tag": "hr",
-    "innerHtml": ""
-  },
-  {
-    "tag": "h6",
-    "innerHtml": "Iii."
+    "tag": "h5",
+    "innerHtml": "III."
   },
   {
     "tag": "p",
@@ -124,10 +112,6 @@
     "innerHtml": "It appears to me, then, looking back upon what has been advanced:—"
   },
   {
-    "tag": "hr",
-    "innerHtml": ""
-  },
-  {
     "tag": "h5",
     "innerHtml": "I."
   },
@@ -136,44 +120,28 @@
     "innerHtml": "That we have throughout Europe, at an early period, a great body of literature, known as Mediæval Romance, which, amidst much that is wholly of Teutonic origin and character, includes certain well-marked traces of an older Celtic nucleus."
   },
   {
-    "tag": "hr",
-    "innerHtml": ""
-  },
-  {
     "tag": "h5",
-    "innerHtml": "Ii."
+    "innerHtml": "II."
   },
   {
     "tag": "p",
     "innerHtml": "Proceeding backwards in time, we find these romances, their ornaments falling away at each step, existing towards the twelfth century, of simpler structure, and with less encumbered Celtic features, in the works of Wace, and other Bards of the Langue d’Oil."
   },
   {
-    "tag": "hr",
-    "innerHtml": ""
-  },
-  {
     "tag": "h5",
-    "innerHtml": "Iii."
+    "innerHtml": "III."
   },
   {
     "tag": "p",
     "innerHtml": "We find that Geoffrey of Monmouth, Layamon, and other early British and Anglo-Saxon historians, and minstrels, on the one hand, transmitted to Europe the rudiments of its after romance, much of which, on the other hand, they drew from Wales."
   },
   {
-    "tag": "hr",
-    "innerHtml": ""
-  },
-  {
     "tag": "h5",
-    "innerHtml": "Iv."
+    "innerHtml": "IV."
   },
   {
     "tag": "p",
     "innerHtml": "Crossing into Wales we find, in the Mabinogion, the evident counterpart of the Celtic portion of the continental romance, mixed up, indeed, with various reflex additions from beyond the border, but still containing ample internal evidence of a Welsh original."
-  },
-  {
-    "tag": "hr",
-    "innerHtml": ""
   },
   {
     "tag": "h5",
