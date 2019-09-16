@@ -17,5 +17,6 @@
   },
   "status": "published",
   "asset_url": "https://raw.githubusercontent.com/marvindanig/the-mabinogion/master/assets",
-  "book_id": 1129
+  "book_id": 1129,
+  "book_url": "https://bubblin.io/book/the-mabinogion-by-anonymous"
 }
